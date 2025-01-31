@@ -1,0 +1,17 @@
+{
+  "name": "exped-app",
+  "productName": "Exped",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sami Melhem",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "electron": "^34.0.2",
+    "vite": "^6.0.11"
+  }
+}
