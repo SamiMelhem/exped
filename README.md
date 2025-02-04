@@ -1,6 +1,6 @@
 # exped
 
-- Vite.js + Vue.js + TS w/ Shadcn/ui: Frontend
+- Vue3 w/ TailwindCSS: Frontend
 - Electron.js (Chromium and Node.js)
 - Node.js: Backend
 - Ragie.ai (RAG Pipeline)
@@ -23,5 +23,4 @@
 - Extensions
 - Settings Sync
 - History Search
-- Web Developer Toolsch
 - Web Developer Tools
