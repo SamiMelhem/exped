@@ -1,6 +1,6 @@
 # exped
 
-- Vite.js + Vue.js + TS w/ Shadcn/ui: Frontend
+- React.js + TS: Frontend
 - Electron.js (Chromium and Node.js)
 - Node.js: Backend
 - Ragie.ai (RAG Pipeline)
@@ -18,6 +18,17 @@
 - Tab Management (Folders for Tabs, allowing the naming of folders)
 - Shows latest email
 - Allow users to change their icosn to go to their account (Google Drive, Gmail, Outlook, Slack)
+- Security Features (OWASP Top 10)
+    - Broken Access Control (2FA)
+    - Cryptographic failures
+    - Injection
+    - Insecure design
+    - Security misconfiguration
+    - Vulnerable and outdated components
+    - Identification and authentication failures
+    - Software and data integrity failures
+    - Security logging and monitoring failures
+    - Server-side request forgery
 
 - Synchronization
 - Extensions
