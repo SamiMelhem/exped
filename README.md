@@ -1,6 +1,6 @@
 # exped
 
-- React.js + TS: Frontend
+- React.js + TS w/ Shadcn/ui: Frontend
 - Electron.js (Chromium and Node.js)
 - Node.js: Backend
 - Ragie.ai (RAG Pipeline)
@@ -34,5 +34,4 @@
 - Extensions
 - Settings Sync
 - History Search
-- Web Developer Toolsch
 - Web Developer Tools
